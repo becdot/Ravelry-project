@@ -18,9 +18,11 @@ import requests
 login_url = 'https://www.ravelry.com/account/login'
 yarn_url = 'http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky'
 auth = {'user[login]': 'becdot', 'user[password]': 'becca21'}
-login_response = requests.post(login_url, data=auth)
-print login_response.text
-print login_response.headers
+session_info = requests.session()
+login_response = session_info.post(login_url, data=auth)
+yarn_response = session_info.get(yarn_url)
+
+print yarn_response.text
 
 
 
