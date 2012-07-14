@@ -1,0 +1,1004 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Ravelry: Brown Sheep Lamb's Pride Bulky </title>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+<meta content='6qo+qFsVWZKKU4Xyk5FcBrBIJQUSiilB6f24TUXIxMs=' id='authenticity-token' name='authenticity-token' />
+<meta content='noodp' name='robots' />
+<link href="http://style2.ravelrycache.com/stylesheets/ravelry_global_1206151136.css" rel="Stylesheet" type="text/css" />
+<link href="http://style3.ravelrycache.com/stylesheets/ravelry_components_1206131125.css" rel="Stylesheet" type="text/css" />
+
+
+<script src="http://style2.ravelrycache.com/javascripts/base11_1110072004.js" type="text/javascript"></script>
+<script src="http://style2.ravelrycache.com/javascripts/ravelry_1206131206.js" type="text/javascript"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Ravelry" href="http://www.ravelry.com/search.xml">
+<!--[if lt IE 7]> 
+<link href="http://style2.ravelrycache.com/stylesheets/ie6.r12.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lt IE 9]> 
+<link href="http://style1.ravelrycache.com/stylesheets/ie.r4.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class='yarns yarns_show show_action  normal normal_with_pro'>
+<div id='page'>
+<div id='banner'>
+<a href="/"><img height="73" src="http://style1.ravelrycache.com/images/ravelry-logo.gif" title="Ravelry!" width="213" /></a>
+</div>
+<div id='status'>
+<div id='messages'>
+<div id='login'>
+<div id='logged_in'>
+hiya, 
+<strong>
+<a href="http://www.ravelry.com/people/becdot" class="login">becdot</a>!
+</strong>
+<a href="/account/logout" onclick="R.accounts.logout(); return false;">logout</a>
+</div>
+<div id='inbox'>
+<span id='unread_messages_count'>
+<a href="http://www.ravelry.com/people/becdot/messages">1 new message <img height="16" src="http://style1.ravelrycache.com/images/silk-email_open.gif" width="16" /></a>
+</span>
+</div>
+
+</div>
+</div>
+</div>
+<div id='navigation'>
+<ul>
+<li id='notebook_tab'>
+<a href="http://www.ravelry.com/projects/becdot">my notebook</a>
+<ul id='notebook_menu' style='display: none;'>
+<li class='projects_option'><a href="/projects/becdot">projects</a></li>
+<li class='stash_option'><a href="/people/becdot/stash">stash</a></li>
+<li class='queue_option'><a href="/people/becdot/queue">queue</a></li>
+<li class='favorites_option'><a href="/people/becdot/favorites">favorites</a></li>
+<li class='friends_option'><a href="/people/becdot/friends">friends</a></li>
+<li class='user_groups_option'><a href="http://www.ravelry.com/people/becdot/groups">groups/events</a></li>
+<li class='needles_option'><a href="/people/becdot/needles">needles/hooks</a></li>
+<li class='books_option'><a href="http://www.ravelry.com/people/becdot/library">library</a></li>
+<li class='messages_option'><a href="/people/becdot/messages">messages</a></li>
+<li class='posts_option'><a href="/people/becdot/posts">blog posts</a></li>
+<li class='contributions_option'><a href="/people/becdot/contributions">contributions</a></li>
+</ul>
+</li>
+<li id='patterns_tab'><a href="/patterns">patterns</a></li>
+<li class='active' id='yarns_tab'><a href="/yarns">yarns</a></li>
+<li><a href="/people">people</a></li>
+<li><a href="http://www.ravelry.com/discuss">forums</a></li>
+<li><a href="http://www.ravelry.com/groups">groups</a></li>
+<li><a href="http://www.ravelry.com/shop">shop</a></li>
+<li id='help_tab'>
+<a href="http://www.ravelry.com/help" style="font-size: 1.2em;" title="Ravelry Help"><img height="18" src="http://style0.ravelrycache.com/images/question2-2.png" width="17" /></a>
+</li>
+<li id='search_tab' onclick='R.searchlight.tabClicked();'>
+<a href="/search" onclick="return false;" title="Search ravelry"><img class="inline" height="16" src="http://style3.ravelrycache.com/images/fugue-magnifier_left.png" width="16" /></a>
+</li>
+<li id='carts_tab' style='display: none;'></li>
+<li id='pro_tab' onclick='R.navigation.proTabClicked();'>
+<a href="/search" onclick="return false;" title="Switch to Pro account"><img src="http://style0.ravelrycache.com/images/pro-menu-text-2.png" /></a>
+</li>
+</ul>
+</div>
+<div id='searchlight' style='display: none;'>
+<div class='searchlight_top'>
+<a href="#" onclick="R.searchlight.close(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='searchlight_content'>
+<div class='section'>
+<img class="inline" src="http://style2.ravelrycache.com/images/fugue-lightning.png" />
+quick search
+</div>
+<form onsubmit='R.searchlight.search(); return false;'>
+<input id='searchlight_term' type='text' />
+<div id='searchlight_progress'></div>
+</form>
+<div id='searchlight_results'></div>
+<div class='section'>
+<img class="inline" src="http://style0.ravelrycache.com/images/advanced-search-tiny.png" />
+advanced search
+</div>
+<div class='advanced_searchlight searchlight_component' id='advanced_search_links'>
+<ul>
+<li><a href="/patterns/search#query=" id="searchlight_patterns_advanced">patterns</a></li>
+<li><a href="/projects/search#query=">projects</a></li>
+<li><a href="/designers/search#query=">designers</a></li>
+<li><a href="/sources/search#query=">sources</a></li>
+</ul>
+<ul>
+<li><a href="/yarns/search#query=">yarns</a></li>
+<li><a href="/stash/search#query=">stashes</a></li>
+<li><a href="/yarns/brands/search#query=">yarn brands</a></li>
+</ul>
+<ul>
+<li><a href="/people/search#query=">people</a></li>
+<li><a href="/groups/search#query=">groups</a></li>
+<li><a href="/discuss/search#query=&amp;view=posts">forum posts</a></li>
+<li><a href="/discuss/search#query=&amp;view=topics">topics</a></li>
+<li><a href="/events/search#query=">events</a></li>
+</ul>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-disk.png" width="16" />
+my saved searches
+</div>
+<div class='saved_searchlight searchlight_component' id='searchlight_saved_searches'></div>
+</div>
+<div class='searchlight_bottom'></div>
+</div>
+
+<div class='nav_menu' id='pro_menu' style='display: none; left: 720px;'>
+<div class='nav_menu_top' style="background-image: url('/images/pro-menu-top.png'); height: 52px;">
+<a href="#" onclick="R.navigation.closeProMenu(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='nav_menu_content'>
+<div class='content_block' id='pro_menu_business'>
+<span class='title' style='font-size: 1.2em;'>
+<a href="/pro" style="color: black; text-decoration: none;">Becdot Pro</a>
+</span>
+<a href="#" onclick="R.navigation.prepareChangeBusiness(); return false;">change</a>
+
+</div>
+<div class='section'>
+<img class="inline" src="http://style3.ravelrycache.com/images/fugue-application-block.png" />
+apps
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/apps">http://www.ravelry.com/pro/...</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style3.ravelrycache.com/images/silk-page_white_acrobat.png" width="16" />
+pattern sales
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/manage">manage store</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/promotions">promotions</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/purchases">purchases</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-layout_sidebar.png" width="16" />
+advertising
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/active">active ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/planned">pending ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/performance">performance</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/prepare">reserve ad space</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style0.ravelrycache.com/images/silk-money_dollar.png" width="16" />
+invoices
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/invoices">invoices</a></li>
+</ul>
+</div>
+</div>
+<div class='nav_menu_bottom'></div>
+
+</div>
+
+<div id='content'>
+<div class='heading'>
+<h2>
+<span class='sub'>
+<strong><a href="/yarns">yarns</a></strong>
+<span class="breadcrumb_divider">></span>
+<a href="http://www.ravelry.com/yarns/brands/brown-sheep">Brown Sheep</a>
+<span class="breadcrumb_divider">></span>
+Lamb's Pride Bulky 
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/edit" title="Edit this yarn"><img class="inline" height="16" src="http://style1.ravelrycache.com/images/silk-pencil.png" width="16" /></a>
+</span>
+</h2>
+</div>
+<div class='editor'>
+<div class='tabs' id='tabset'>
+<ul>
+<li id="current"><span class="static_tab" id="show_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky">details</a></span></li>
+<li><span class="static_tab" id="photos_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/photos"><strong>4</strong> photos</a></span></li>
+<li><span class="static_tab" id="buy_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/buy"><strong>9</strong> buying options</a></span></li>
+<li><span class="static_tab" id="stashes_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/stashes"><strong>12788</strong> stashes</a></span></li>
+<li><span class="static_tab" id="patterns_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/patterns" class="pattern_ideas">pattern ideas</a></span></li>
+<li><span class="static_tab" id="projects_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/projects"><strong>20641</strong> projects</a></span></li>
+<li><span class="static_tab" id="comments_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/comments"><strong>47</strong> comments</a></span></li>
+<li><span class="static_tab" id="editors_tab"><a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/editors"> editing</a></span></li>
+</ul>
+</div>
+<div class='panels'>
+<div class='panel' id='show_panel'>
+<div class='gallery'>
+<div class='section'>
+<div class="photo_border framed_photo"><div class="photo_frame lp"><div class="photo zoomable_photo" id="photo_10837855" style="background-image: url('http://farm4.static.flickr.com/3147/2873463674_84f5558743_m.jpg'); background-position: -32px -11px; background-repeat: no-repeat"></div></div></div>
+<div class='copyright'>by <a href="http://www.ravelry.com/people/bookie">bookie</a> <img src="http://style0.ravelrycache.com/images/flickr-favicon.png" /> <a href="http://www.flickr.com/photos/15963753@N07/2873463674" target="_blank"> Flickr</a></div>
+</div>
+<div class='section'>
+<div class="photo_border framed_photo"><div class="photo_frame lp"><div class="photo zoomable_photo" id="photo_21893518" style="background-image: url('http://images4.ravelrycache.com/uploads/EntropicParadox/62002539/Lamb_s_Pride_Bulky_M-34_Victorian_Pink_small.jpg'); background-position: -36px -2px; background-repeat: no-repeat"></div></div></div>
+<div class='copyright'>&copy EntropicParadox</div>
+</div>
+<div style='text-align: center; margin-top: 1em;'>
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/photos">view all 4 yarn photos</a>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+<div class='fields show'>
+<a href="http://www.ravelry.com/yarns/brands/brown-sheep" class="image_link"><img class="logo" height="75" src="http://assets3.ravelrycache.com/assets/105711/brownsheep_banner.png" title="Brown Sheep" /></a>
+<fieldset>
+<div class='field'>
+<label>Name</label>
+<div class='value'>
+Lamb's Pride Bulky 
+</div>
+</div>
+<div class='field'>
+<label>Brand</label>
+<div class='value'><a href="http://www.ravelry.com/yarns/brands/brown-sheep">Brown Sheep</a></div>
+</div>
+</fieldset>
+<fieldset>
+<div class='field'>
+<label>
+Weight
+</label>
+<div class='value'>
+Super Bulky (5-6 wpi)
+<a href="#" onclick="R.utils.popup({title: 'Yarn weight help', height: 400, width: 780, url: '/help/yarn/weights?highlight=6'}); return false;"><img height="16" src="http://style3.ravelrycache.com/images/silk-help-2.png" style="padding: 0px: margin: 0px; border: none; vertical-align: top;" title="Information on yarn weights" width="16" /></a>
+</div>
+</div>
+<div class='field'>
+<label>
+Wraps per inch
+</label>
+<div class='value'>
+
+</div>
+</div>
+</fieldset>
+<fieldset>
+<div class='field'>
+<label>Yardage</label>
+<div class='value'>
+125 yards (114 meters)
+</div>
+</div>
+<div class='field'>
+<label>Unit weight</label>
+<div class='value'>113 grams (3.99 ounces)</div>
+</div>
+<div class='field'>
+<label>Gauge</label>
+<div class='value'>12.0 sts = 4 inches  </div>
+</div>
+<div class='field'>
+<label>Needle size</label>
+<div class='value'>US 10½ - 6.5 mm</div>
+</div>
+</fieldset>
+<fieldset>
+<div class='field' id='yarn_fibers'>
+<label>Fibers</label>
+<div class='value'>
+<div class='fiber'>85% Wool</div>
+<div class='fiber'>15% Mohair</div>
+</div>
+</div>
+<div class='field'>
+<label>Texture</label>
+<div class='value'>singles</div>
+</div>
+</fieldset>
+<div class='notes markdown'>
+<p><strong>Content</strong> 85% wool, 15% mohair.</p>
+
+<p><strong>Gauge</strong> 3 stitches = 1 inch (2.5 cm) and and 9 rows = 2 inches</p>
+
+<p>This translates to a super bulky yarn based on Ravelry&#8217;s yarn weight table.</p>
+
+<p><a href='http://www.yarndex.com/yarn.cfm?yarn_id=589'>Yarndex page</a></p>
+</div>
+<div class='flag_container' style='margin-top: 2em;'>
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/report" class="flagging_link">Report a problem with this page</a>
+</div>
+</div>
+<div class='tools sidebar'>
+<div id='tool_buttons'>
+<div id='stash_status'>
+<div id='button_box'>
+<div class='button_set' id='yarn_button_set'>
+<a class='button' href='http://www.ravelry.com/people/becdot/stash/new?yarn_id=7086'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-basket.png" width="16" />
+<span>add to stash</span>
+</a>
+<a class='favorites_button button' href='#' onclick="R.favorites.add('http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/bookmark'); return false;">
+<img height="16" src="http://style1.ravelrycache.com/images/silk-heart_add.png" width="16" />
+<span>add to favorites</span>
+</a>
+<a class='button' href='#' onclick="R.queue.addToQueue('becdot', {src: 'yarn', yarn_id: 7086}); return false">
+<img src="http://style0.ravelrycache.com/images/farmfresh-text_list_numbers_add.png" />
+<span>add to queue</span>
+</a>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+</div>
+</div>
+</div>
+<div class='more_from' id='yarn_company'>
+<form>
+<select id="yarn_company_id" name="yarn_company_id" onchange="navigateWithSelect(this);"><option>More from Brown Sheep...</option><option></option><option value="http://www.ravelry.com/yarns/brands/brown-sheep">View All 41 yarns</option><option></option><option value="/yarns/library/brown-sheep-burly-spun">Burly Spun</option><option value="/yarns/library/brown-sheep-cotton-cords">Cotton Cords</option><option value="/yarns/library/brown-sheep-cotton-fine">Cotton Fine</option><option value="/yarns/library/brown-sheep-cotton-fleece">Cotton Fleece</option><option value="/yarns/library/brown-sheep-cotton-top">Cotton Top</option><option value="/yarns/library/brown-sheep-cotton-top-dk">Cotton Top DK</option><option value="/yarns/library/brown-sheep-country-classic-bulky">Country Classic Bulky</option><option value="/yarns/library/brown-sheep-country-classic-worsted">Country Classic Worsted</option><option value="/yarns/library/brown-sheep-country-cobbler">Country Cobbler</option><option value="/yarns/library/brown-sheep-country-spun">Country Spun</option><option value="/yarns/library/brown-sheep-fantasy-lace">Fantasy Lace</option><option value="/yarns/library/brown-sheep-handpaint-originals">Handpaint Originals</option><option value="/yarns/library/brown-sheep-kaleidoscope">Kaleidoscope</option><option value="/yarns/library/brown-sheep-knitting-worsted">Knitting Worsted</option><option value="/yarns/library/brown-sheep-lambs-pride-bulky">Lamb's Pride Bulky </option><option value="/yarns/library/brown-sheep-lambs-pride-polarweight">Lamb's Pride Polarweight</option><option value="/yarns/library/brown-sheep-lambs-pride-superwash-bulky">Lamb's Pride Superwash Bulky</option><option value="/yarns/library/brown-sheep-lambs-pride-superwash-sport">Lamb's Pride Superwash Sport</option><option value="/yarns/library/brown-sheep-lambs-pride-superwash-worsted">Lamb's Pride Superwash Worsted</option><option value="/yarns/library/brown-sheep-lambs-pride-worsted">Lamb's Pride Worsted</option><option value="/yarns/library/brown-sheep-lanaloft-bulky-handpaint">Lanaloft Bulky Handpaint</option><option value="/yarns/library/brown-sheep-lanaloft-bulky-solids">Lanaloft Bulky Solids</option><option value="/yarns/library/brown-sheep-lanaloft-sports-weight">Lanaloft Sports Weight</option><option value="/yarns/library/brown-sheep-lanaloft-worsted">Lanaloft Worsted</option><option value="/yarns/library/brown-sheep-legacy-lace">Legacy Lace</option><option value="/yarns/library/brown-sheep-mill-ends-superwash">Mill Ends Superwash</option><option value="/yarns/library/brown-sheep-nature-spun-chunky">Nature Spun Chunky</option><option value="/yarns/library/brown-sheep-nature-spun-fingering">Nature Spun Fingering</option><option value="/yarns/library/brown-sheep-nature-spun-sport">Nature Spun Sport</option><option value="/yarns/library/brown-sheep-nature-spun-worsted">Nature Spun Worsted</option><option value="/yarns/library/brown-sheep-natures-spectrum">Nature's Spectrum</option><option value="/yarns/library/brown-sheep-prairie-silks">Prairie Silks</option><option value="/yarns/library/brown-sheep-serendipity-tweed">Serendipity Tweed</option><option value="/yarns/library/brown-sheep-shepherds-shades">Shepherd's Shades</option><option value="/yarns/library/brown-sheep-sport-weight">Sport Weight</option><option value="/yarns/library/brown-sheep-superwash-roving">Superwash Roving</option><option value="/yarns/library/brown-sheep-top-of-the-lamb-single-ply-sports">Top of the Lamb Single Ply Sports</option><option value="/yarns/library/brown-sheep-top-of-the-lamb-sport">Top of the Lamb Sport</option><option value="/yarns/library/brown-sheep-top-of-the-lamb-worsted">Top of the Lamb Worsted</option><option value="/yarns/library/brown-sheep-waverly-wool">Waverly Wool</option><option value="/yarns/library/brown-sheep-wildfoote-luxury-sock">Wildfoote Luxury Sock</option><option value="/yarns/library/brown-sheep-wool-mill-ends">Wool Mill Ends</option></select>
+</form>
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div class='yarn_summary'>
+<div class='yarn_summary box' id='yarn_7086_summary'>
+<div class='box_title'>
+About this yarn
+</div>
+<div class='box_contents yarn_summary_content' id='yarn_7086_content'>
+<div class='yarn_name'>
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky">Lamb's Pride Bulky </a>
+</div>
+<div class='yarn_company'>
+by <a href="http://www.ravelry.com/yarns/brands/brown-sheep">Brown Sheep</a>
+</div>
+<div class='fiber_and_weight'>
+Super Bulky
+</div>
+<div class='fibers'>
+85% Wool, 15% Mohair
+</div>
+<div class='yardage'>
+125
+yards
+ / 
+113
+grams
+</div>
+<div style='margin-top: 1em;'>
+<div class='average' style='font-size: .9em;'>
+average rating from 4138 votes
+</div>
+<div class="inline_stars"><div class="rating-foreground inline_stars_rating" style="width:68.0px;" title="4.28 out of 5"><meta itemprop='rating' content='4.28'/></div></div>
+</div>
+<div class='pattern_people summary_box_people'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-basket.png" width="16" />
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/projects">20641 projects</a>,
+stashed
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/stashes">12788 times</a>
+</div>
+</div>
+</div>
+<div id='yarn_buying_options'>
+<div id="specific_yarn_links"></div>
+</div>
+<div class='user_editable'>
+</div>
+
+</div>
+<div class='yarndex'>
+<img height="16" src="http://style0.ravelrycache.com/images/silk-color_swatch.png" width="16" />
+Find
+<a href="http://brownsheep.com/yarns/lamb-pride?view=category" target="_blank">Brown Sheep color cards</a>
+at
+brownsheep.com
+</div>
+
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div class='yarn_people' style='margin-top: 2em;'>
+<h3>
+<img class="inline" height="16" src="http://style0.ravelrycache.com/images/color_wheel.png" width="16" />
+popular colorways
+</h3>
+<div class='colorways' style='margin-left: 25px; padding-top: 10px;'>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=autumn+harvest&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_24828941" src="http://images4.ravelrycache.com/uploads/ambertides/111389768/autumn_square.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Autumn Harvest
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=autumn+harvest&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">63 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=autumn+harvest&amp;yarn-link=brown-sheep-lambs-pride-bulky">132 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=aztec+turquoise&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_22087322" src="http://images4.ravelrycache.com/uploads/lindszoo/93159163/document_upload4052-1_square.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Aztec Turquoise
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=aztec+turquoise&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">69 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=aztec+turquoise&amp;yarn-link=brown-sheep-lambs-pride-bulky">104 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=black&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_1280811" src="http://farm3.static.flickr.com/2049/2175448207_6d641bef4f_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Black
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=black&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">140 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=black&amp;yarn-link=brown-sheep-lambs-pride-bulky">403 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=blue&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_18994986" src="http://images4.ravelrycache.com/uploads/sassnak/73527529/DSCF2696_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Blue
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=blue&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">36 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=blue&amp;yarn-link=brown-sheep-lambs-pride-bulky">142 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=brown&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_21901864" src="http://images4.ravelrycache.com/uploads/StitchParade/91950136/LP_Bulky_brown_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Brown
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=brown&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">56 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=brown&amp;yarn-link=brown-sheep-lambs-pride-bulky">154 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=charcoal&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_293741" src="http://farm2.static.flickr.com/1289/1096598075_d6bdca8a29_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Charcoal
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=charcoal&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">58 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=charcoal&amp;yarn-link=brown-sheep-lambs-pride-bulky">184 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=charcoal+heather&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_8947979" src="http://images4.ravelrycache.com/uploads/caplefa/17501144/Picture_003_square.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Charcoal Heather
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=charcoal+heather&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">110 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=charcoal+heather&amp;yarn-link=brown-sheep-lambs-pride-bulky">164 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=cream&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_24805213" src="http://images4.ravelrycache.com/uploads/crochet-flowers/111226011/document_upload7188-0_square.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Cream
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=cream&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">43 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=cream&amp;yarn-link=brown-sheep-lambs-pride-bulky">140 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=creme&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_10027696" src="http://images4.ravelrycache.com/uploads/uberimma/21956610/Jan2010_212_square.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Creme
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=creme&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">90 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=creme&amp;yarn-link=brown-sheep-lambs-pride-bulky">132 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=deep+charcoal&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_11831683" src="http://farm5.static.flickr.com/4040/4680948214_4a2f4da3e6_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Deep Charcoal
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=deep+charcoal&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">99 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=deep+charcoal&amp;yarn-link=brown-sheep-lambs-pride-bulky">127 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=green&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_22022386" src="http://images4.ravelrycache.com/uploads/Mom2byz/92735947/document_upload16956-4_square.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Green
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=green&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">45 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=green&amp;yarn-link=brown-sheep-lambs-pride-bulky">142 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=kiwi&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_24711414" src="http://images4.ravelrycache.com/uploads/winniepoop/110583494/IMG_0805_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Kiwi
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=kiwi&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">97 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=kiwi&amp;yarn-link=brown-sheep-lambs-pride-bulky">220 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=lemon+drop&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_22678566" src="http://images4.ravelrycache.com/uploads/momzageek/97041998/IMG_0050_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Lemon Drop
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=lemon+drop&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">90 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=lemon+drop&amp;yarn-link=brown-sheep-lambs-pride-bulky">117 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=limeade&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_17231535" src="http://images4.ravelrycache.com/uploads/jcs65/63115721/IMG_1021_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Limeade
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=limeade&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">101 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=limeade&amp;yarn-link=brown-sheep-lambs-pride-bulky">173 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=lotus+pink&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_13466510" src="http://images4.ravelrycache.com/uploads/missblane/41931603/IMG_0027_square.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Lotus Pink
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=lotus+pink&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">88 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=lotus+pink&amp;yarn-link=brown-sheep-lambs-pride-bulky">140 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=03&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_8027910" src="http://farm4.static.flickr.com/3523/3914201396_64587aa52c_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+M-03 Grey Heather
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=03&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">107 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=03&amp;yarn-link=brown-sheep-lambs-pride-bulky">67 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=04&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_13952309" src="http://images4.ravelrycache.com/uploads/anniesahn/44551538/SAM_0108_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+M-04 Charcoal Heather
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=04&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">150 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=04&amp;yarn-link=brown-sheep-lambs-pride-bulky">74 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=05&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_2668242" src="http://farm4.static.flickr.com/3259/2537016697_72b0ab2800_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+M-05 Onyx
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=05&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">271 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=05&amp;yarn-link=brown-sheep-lambs-pride-bulky">102 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=06&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_2757731" src="http://farm4.static.flickr.com/3141/2564807747_d90b53654d_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+M-06 Deep Charcoal
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=06&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">135 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=06&amp;yarn-link=brown-sheep-lambs-pride-bulky">57 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=10&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_2857097" src="http://farm4.static.flickr.com/3082/2597103560_2014c7b6f1_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+M-10 Creme
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=10&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">158 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=10&amp;yarn-link=brown-sheep-lambs-pride-bulky">74 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=oatmeal&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_6944256" src="http://images4.ravelrycache.com/uploads/leiax13/10000083/009_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Oatmeal
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=oatmeal&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">106 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=oatmeal&amp;yarn-link=brown-sheep-lambs-pride-bulky">232 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=onyx&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_5029353" src="http://farm4.static.flickr.com/3118/3185129127_dc39ac0b79_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Onyx
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=onyx&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">217 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=onyx&amp;yarn-link=brown-sheep-lambs-pride-bulky">347 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=orange+you+glad&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_22679741" src="http://images4.ravelrycache.com/uploads/momzageek/97049883/IMG_0069_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Orange You Glad
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=orange+you+glad&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">80 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=orange+you+glad&amp;yarn-link=brown-sheep-lambs-pride-bulky">116 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=oregano&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_2132880" src="http://farm3.static.flickr.com/2056/2380651892_582a88f82d_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Oregano
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=oregano&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">86 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=oregano&amp;yarn-link=brown-sheep-lambs-pride-bulky">143 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=pink&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_2584857" src="http://farm3.static.flickr.com/2278/2511804445_8d09364d6e_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Pink
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=pink&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">38 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=pink&amp;yarn-link=brown-sheep-lambs-pride-bulky">140 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=purple&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_10211549" src="http://images4.ravelrycache.com/uploads/need4tweed/22743776/DSC01488_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Purple
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=purple&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">59 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=purple&amp;yarn-link=brown-sheep-lambs-pride-bulky">169 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=red&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_17757567" src="http://images4.ravelrycache.com/uploads/knitsmcfadden/66170707/035_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Red
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=red&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">68 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=red&amp;yarn-link=brown-sheep-lambs-pride-bulky">250 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=rust&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_4379892" src="http://farm4.static.flickr.com/3230/3040286855_31caebc162_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Rust
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=rust&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">54 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=rust&amp;yarn-link=brown-sheep-lambs-pride-bulky">119 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=sable&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_2616633" src="http://farm3.static.flickr.com/2201/2521337365_60f00b46b9_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Sable
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=sable&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">84 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=sable&amp;yarn-link=brown-sheep-lambs-pride-bulky">189 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=spice&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_7968184" src="http://farm4.static.flickr.com/3482/3897189227_7cc0dbe24a_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Spice
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=spice&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">61 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=spice&amp;yarn-link=brown-sheep-lambs-pride-bulky">125 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=sunburst+gold&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_19217546" src="http://images4.ravelrycache.com/uploads/rainandshine/74891737/IMG_5078_square.JPG" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Sunburst Gold
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=sunburst+gold&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">64 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=sunburst+gold&amp;yarn-link=brown-sheep-lambs-pride-bulky">114 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='colorway' style='float: left; width: 225px; height: 100px;'>
+<a href="/stash/search#colorway=victorian+pink&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky" style="float: left; border: 1px solid #666;"><img class="square_thumbnail" height="75" id="sqt_5029402" src="http://farm4.static.flickr.com/3301/3185131215_4732a040fc_s.jpg" width="75" /></a>
+<div class='details' style='float: left; width: 125px; margin-left: 10px;'>
+<p style='font-size: 1.05em; display: block; height: 2.25em; overflow: hidden;'>
+Victorian Pink
+</p>
+<p style='margin-top: .5em; font-size: .95em;'>
+<a href="/stash/search#colorway=victorian+pink&amp;view=cards&amp;yarn-link=brown-sheep-lambs-pride-bulky">89 stashed</a>
+</p>
+<p style='margin-top: .25em; font-size: .95em;'>
+<a href="/projects/search#colorway=victorian+pink&amp;yarn-link=brown-sheep-lambs-pride-bulky">121 projects</a>
+</p>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='yarn_people' style='margin-top: 1em;'>
+<h3>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/time.png" width="16" />
+recently stashed
+</h3>
+<div class='stashed'>
+<div class="photo_border framed_photo"><div class="photo_frame lp"><a class="photo" href="http://www.ravelry.com/people/sintheaj/stash/lambs-pride-bulky" id="stashed_6890530" style="background-image: url('http://images4.ravelrycache.com/uploads/sintheaj/111178349/black_brown_sheep_small_best_fit.JPG'); background-position: 0px 0px; background-repeat: no-repeat"></a></div></div>
+<div class='quantity'>15</div>
+in <a href="http://www.ravelry.com/people/sintheaj/stash/lambs-pride-bulky">sintheaj's stash</a>
+<div class='stash_status trade'>
+Will trade or sell
+<img alt="Flag of Portugal" src="http://style2.ravelrycache.com/images/flags/pt.png" title="Portugal" />
+<a href="http://www.ravelry.com/people/becdot/messages?subject=Your+Brown+Sheep+Lamb%27s+Pride+Bulky++Black&amp;to=sintheaj" title="Send a message to sintheaj"><img height="16" src="http://style1.ravelrycache.com/images/silk-email.png" width="16" /></a>
+</div>
+</div>
+<div class='stashed'>
+<div class="photo_border framed_photo"><div class="photo_frame lp"><a class="photo" href="http://www.ravelry.com/people/winniepoop/stash/lambs-pride-bulky" id="stashed_6869311" style="background-image: url('http://images4.ravelrycache.com/uploads/winniepoop/110583494/IMG_0805_small.JPG'); background-position: -49px -9px; background-repeat: no-repeat"></a></div></div>
+<div class='quantity'>2</div>
+in <a href="http://www.ravelry.com/people/winniepoop/stash/lambs-pride-bulky">winniepoop's stash</a>
+<div class='stash_status trade'>
+Will trade or sell
+<img alt="Flag of United States" src="http://style2.ravelrycache.com/images/flags/us.png" title="United States" />
+<a href="http://www.ravelry.com/people/becdot/messages?subject=Your+Brown+Sheep+Lamb%27s+Pride+Bulky++Kiwi&amp;to=winniepoop" title="Send a message to winniepoop"><img height="16" src="http://style1.ravelrycache.com/images/silk-email.png" width="16" /></a>
+</div>
+</div>
+<div class='stashed'>
+<div class="photo_border framed_photo"><div class="photo_frame lp"><a class="photo" href="http://www.ravelry.com/people/kaaktus/stash/lambs-pride-bulky-2" id="stashed_6767918" style="background-image: url('http://images4.ravelrycache.com/uploads/kaaktus/108325722/IMG_1151_small_best_fit.JPG'); background-position: -41px -3px; background-repeat: no-repeat"></a></div></div>
+<div class='quantity'>0.25</div>
+in <a href="http://www.ravelry.com/people/kaaktus/stash/lambs-pride-bulky-2">kaaktus' stash</a>
+<div class='stash_status trade'>
+Will trade or sell
+<img alt="Flag of Australia" src="http://style0.ravelrycache.com/images/flags/au.png" title="Australia" />
+<a href="http://www.ravelry.com/people/becdot/messages?subject=Your+Brown+Sheep+Lamb%27s+Pride+Bulky++&amp;to=kaaktus" title="Send a message to kaaktus"><img height="16" src="http://style1.ravelrycache.com/images/silk-email.png" width="16" /></a>
+</div>
+</div>
+<div class='stashed'>
+<div class="photo_border framed_photo"><div class="photo_frame lp"><a class="photo" href="http://www.ravelry.com/people/Serine23/stash/lambs-pride-bulky-4" id="stashed_6683038" style="background-image: url('http://images4.ravelrycache.com/uploads/Serine23/105706792/dsc08211_small.jpg'); background-position: -35px -5px; background-repeat: no-repeat"></a></div></div>
+<div class='quantity'>9.5</div>
+in <a href="http://www.ravelry.com/people/Serine23/stash/lambs-pride-bulky-4">Serine23's stash</a>
+<div class='stash_status trade'>
+Will trade or sell
+<img alt="Flag of United States" src="http://style2.ravelrycache.com/images/flags/us.png" title="United States" />
+<a href="http://www.ravelry.com/people/becdot/messages?subject=Your+Brown+Sheep+Lamb%27s+Pride+Bulky++M-75+Blue+Heirloom&amp;to=Serine23" title="Send a message to Serine23"><img height="16" src="http://style1.ravelrycache.com/images/silk-email.png" width="16" /></a>
+</div>
+</div>
+
+<div style="clear:both;" class="c_d"></div>
+<div style='text-align: right; font-size: .95em;'>
+<img class="inline" height="16" src="http://style3.ravelrycache.com/images/silk-feed.png" width="16" />
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/offers?format=rss" class="stash_rss">subscribe to stashes for sale/trade</a>
+ | 
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/stashes">view all recently stashed...</a>
+</div>
+</div>
+
+</div>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div id='preload_default_images'>
+<span>
+<span></span>
+</span>
+</div>
+<div id='prefooter'></div>
+</div>
+<div id='footer'>
+<div class='linkbar'>
+<a href="/">Home</a>
+|
+<a href="/about">About Us</a>
+|
+<a href="/advertisers">Advertising</a>
+|
+<a href="/contact">Contact Us</a>
+|
+<a href="/donate">Donating</a>
+|
+<a href="/about/goodies">Goodies</a>
+|
+<a href="/jobs">We're Hiring!</a>
+|
+<a href="/groups/ravelry-api">API</a>
+|
+<a href="/about/guidelines">Community Guidelines</a>, 
+<a href="/about/terms">Terms of Use</a>
+&amp;
+<a href="/about/privacy">Privacy</a>
+|
+<a href="http://twitter.com/ravelry" target="_blank"><img height="16" src="http://style2.ravelrycache.com/images/splash/twitter.png" style="vertical-align: top;" width="16" /></a>
+</div>
+</div>
+<script type="text/javascript">
+//<![CDATA[
+(function() {var stamp = new Date().getTime() + ';' + Math.random();var ajs = document.createElement('script'); ajs.type = 'text/javascript'; ajs.async = true;ajs.src = 'http://www.ravelry.com/enablers/s/specific_yarn_links/7086?s=' + stamp + '&tag=1';var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ajs, s);})();
+//]]>
+</script>
+
+
+<script src="http://www.ravelry.com/sinatra/pageview/yarn/7086/1870338/1342231356?count_visit=1&amp;referrer=%2F.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2348901-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
+
