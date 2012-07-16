@@ -1,0 +1,1631 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Ravelry: becdot's 2012 birthday scarf</title>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+<meta content='EbXe4NjQ1K4SgldzlddcJfvyIuR7qC/2/KGSfsWm4bQ=' id='authenticity-token' name='authenticity-token' />
+<meta content='noodp' name='robots' />
+<link href="http://style2.ravelrycache.com/stylesheets/ravelry_global_1206151136.css" rel="Stylesheet" type="text/css" />
+<link href="http://style3.ravelrycache.com/stylesheets/ravelry_components_1206131125.css" rel="Stylesheet" type="text/css" />
+
+
+<script src="http://style2.ravelrycache.com/javascripts/base11_1110072004.js" type="text/javascript"></script>
+<script src="http://style2.ravelrycache.com/javascripts/ravelry_1206131206.js" type="text/javascript"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Ravelry" href="http://www.ravelry.com/search.xml">
+<!--[if lt IE 7]> 
+<link href="http://style2.ravelrycache.com/stylesheets/ie6.r12.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lt IE 9]> 
+<link href="http://style1.ravelrycache.com/stylesheets/ie.r4.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class='projects projects_show show_action  normal normal_with_pro'>
+<div id='page'>
+<div id='banner'>
+<a href="/"><img height="73" src="http://style1.ravelrycache.com/images/ravelry-logo.gif" title="Ravelry!" width="213" /></a>
+</div>
+<div id='status'>
+<div id='messages'>
+<div id='login'>
+<div id='logged_in'>
+hiya, 
+<strong>
+<a href="http://www.ravelry.com/people/becdot" class="login">becdot</a>!
+</strong>
+<a href="/account/logout" onclick="R.accounts.logout(); return false;">logout</a>
+</div>
+<div id='inbox'>
+<span id='unread_messages_count'>
+<a href="http://www.ravelry.com/people/becdot/messages">1 new message <img height="16" src="http://style1.ravelrycache.com/images/silk-email_open.gif" width="16" /></a>
+</span>
+</div>
+
+</div>
+</div>
+</div>
+<div id='navigation'>
+<ul>
+<li class='active' id='notebook_tab'>
+<a href="http://www.ravelry.com/projects/becdot">my notebook</a>
+<ul id='notebook_menu' style='display: none;'>
+<li class='projects_option'><a href="/projects/becdot">projects</a></li>
+<li class='stash_option'><a href="/people/becdot/stash">stash</a></li>
+<li class='queue_option'><a href="/people/becdot/queue">queue</a></li>
+<li class='favorites_option'><a href="/people/becdot/favorites">favorites</a></li>
+<li class='friends_option'><a href="/people/becdot/friends">friends</a></li>
+<li class='user_groups_option'><a href="http://www.ravelry.com/people/becdot/groups">groups/events</a></li>
+<li class='needles_option'><a href="/people/becdot/needles">needles/hooks</a></li>
+<li class='books_option'><a href="http://www.ravelry.com/people/becdot/library">library</a></li>
+<li class='messages_option'><a href="/people/becdot/messages">messages</a></li>
+<li class='posts_option'><a href="/people/becdot/posts">blog posts</a></li>
+<li class='contributions_option'><a href="/people/becdot/contributions">contributions</a></li>
+</ul>
+</li>
+<li id='patterns_tab'><a href="/patterns">patterns</a></li>
+<li id='yarns_tab'><a href="/yarns">yarns</a></li>
+<li><a href="/people">people</a></li>
+<li><a href="http://www.ravelry.com/discuss">forums</a></li>
+<li><a href="http://www.ravelry.com/groups">groups</a></li>
+<li><a href="http://www.ravelry.com/shop">shop</a></li>
+<li id='help_tab'>
+<a href="http://www.ravelry.com/help" style="font-size: 1.2em;" title="Ravelry Help"><img height="18" src="http://style0.ravelrycache.com/images/question2-2.png" width="17" /></a>
+</li>
+<li id='search_tab' onclick='R.searchlight.tabClicked();'>
+<a href="/search" onclick="return false;" title="Search ravelry"><img class="inline" height="16" src="http://style3.ravelrycache.com/images/fugue-magnifier_left.png" width="16" /></a>
+</li>
+<li id='carts_tab' style='display: none;'></li>
+<li id='pro_tab' onclick='R.navigation.proTabClicked();'>
+<a href="/search" onclick="return false;" title="Switch to Pro account"><img src="http://style0.ravelrycache.com/images/pro-menu-text-2.png" /></a>
+</li>
+</ul>
+</div>
+<div id='searchlight' style='display: none;'>
+<div class='searchlight_top'>
+<a href="#" onclick="R.searchlight.close(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='searchlight_content'>
+<div class='section'>
+<img class="inline" src="http://style2.ravelrycache.com/images/fugue-lightning.png" />
+quick search
+</div>
+<form onsubmit='R.searchlight.search(); return false;'>
+<input id='searchlight_term' type='text' />
+<div id='searchlight_progress'></div>
+</form>
+<div id='searchlight_results'></div>
+<div class='section'>
+<img class="inline" src="http://style0.ravelrycache.com/images/advanced-search-tiny.png" />
+advanced search
+</div>
+<div class='advanced_searchlight searchlight_component' id='advanced_search_links'>
+<ul>
+<li><a href="/patterns/search#query=" id="searchlight_patterns_advanced">patterns</a></li>
+<li><a href="/projects/search#query=">projects</a></li>
+<li><a href="/designers/search#query=">designers</a></li>
+<li><a href="/sources/search#query=">sources</a></li>
+</ul>
+<ul>
+<li><a href="/yarns/search#query=">yarns</a></li>
+<li><a href="/stash/search#query=">stashes</a></li>
+<li><a href="/yarns/brands/search#query=">yarn brands</a></li>
+</ul>
+<ul>
+<li><a href="/people/search#query=">people</a></li>
+<li><a href="/groups/search#query=">groups</a></li>
+<li><a href="/discuss/search#query=&amp;view=posts">forum posts</a></li>
+<li><a href="/discuss/search#query=&amp;view=topics">topics</a></li>
+<li><a href="/events/search#query=">events</a></li>
+</ul>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-disk.png" width="16" />
+my saved searches
+</div>
+<div class='saved_searchlight searchlight_component' id='searchlight_saved_searches'></div>
+</div>
+<div class='searchlight_bottom'></div>
+</div>
+
+<div class='nav_menu' id='pro_menu' style='display: none; left: 720px;'>
+<div class='nav_menu_top' style="background-image: url('/images/pro-menu-top.png'); height: 52px;">
+<a href="#" onclick="R.navigation.closeProMenu(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='nav_menu_content'>
+<div class='content_block' id='pro_menu_business'>
+<span class='title' style='font-size: 1.2em;'>
+<a href="/pro" style="color: black; text-decoration: none;">Becdot Pro</a>
+</span>
+<a href="#" onclick="R.navigation.prepareChangeBusiness(); return false;">change</a>
+
+</div>
+<div class='section'>
+<img class="inline" src="http://style3.ravelrycache.com/images/fugue-application-block.png" />
+apps
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/apps">http://www.ravelry.com/pro/...</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style3.ravelrycache.com/images/silk-page_white_acrobat.png" width="16" />
+pattern sales
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/manage">manage store</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/promotions">promotions</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/purchases">purchases</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-layout_sidebar.png" width="16" />
+advertising
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/active">active ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/planned">pending ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/performance">performance</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/prepare">reserve ad space</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style0.ravelrycache.com/images/silk-money_dollar.png" width="16" />
+invoices
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/invoices">invoices</a></li>
+</ul>
+</div>
+</div>
+<div class='nav_menu_bottom'></div>
+
+</div>
+
+<div id='content'>
+<div class='heading'>
+<h2>
+<span class='sub'>
+
+<a href="http://www.ravelry.com/people/becdot">becdot</a>
+<span class="breadcrumb_divider">></span>
+<a href="/projects/becdot">notebook</a>
+<span class="breadcrumb_divider">></span>
+<a href="/projects/becdot">projects</a>
+<span class="breadcrumb_divider">></span>
+</span>
+2012 birthday scarf
+<a href="http://www.ravelry.com/projects/becdot/2012-birthday-scarf/edit"><img height="16" src="http://style1.ravelrycache.com/images/silk-pencil.png" width="16" /></a>
+</h2>
+</div>
+<div class='editor'>
+<div class='tabs' id='tabset'>
+<ul>
+<li id="current"><span class="static_tab" id="show_tab"><a href="/projects/becdot/2012-birthday-scarf">details</a></span></li>
+<li><span class="static_tab" id="photos_tab"><a href="/projects/becdot/2012-birthday-scarf/photos">add photos</a></span></li>
+<li><span class="static_tab" id="journal_tab"><a href="/projects/becdot/2012-birthday-scarf/journal">no posts</a></span></li>
+<li><span class="static_tab" id="comments_tab"><a href="/projects/becdot/2012-birthday-scarf/comments">no comments</a></span></li>
+</ul>
+</div>
+<div class='panels'>
+<div class='panel' id='show_panel'>
+<div class='gallery'>
+<div class='photo_border'>
+<div class='photo_frame'>
+<div class='photo'>
+<div class='placeholder' onclick='changeTab("photos_tab");'>no photos added</div>
+</div>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+<div class='project_editor'>
+<div class='fields view_only'>
+<fieldset>
+<legend>
+Project info
+</legend>
+<div class='field'>
+<label for='project_name'>Name</label>
+<div class='value'>2012 birthday scarf</div>
+</div>
+<div class='field'>
+<label for='project_personal_source_name'>Pattern from</label>
+<div class='value'>
+Folk lace stitch
+</div>
+</div>
+<div class='field'>
+<label>Craft</label>
+<div class='value'>Knitting</div>
+</div>
+<div class='field'>
+<label for='project_made_for'>Made for</label>
+<div class='value'>Sis' birthday</div>
+</div>
+<div class='field tags'>
+<label for='project_tag_list'>Tags</label>
+<div class='value'>
+<ul class='tag_set'>
+</ul>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+</div>
+</fieldset>
+<fieldset>
+<legend>
+Needle and yarn
+</legend>
+<div class='field'>
+<label>Needle</label>
+<div class='value'>US 5  - 3.75 mm</div>
+</div>
+</fieldset>
+<fieldset style='margin-bottom: 2em;'>
+<div class='field'>
+<label>Yarn</label>
+<div class='value'>
+<a href="http://www.ravelry.com/yarns/library/jojoland-consonance">Jojoland Consonance</a>
+</div>
+</div>
+<div class='field'>
+<label>How much?</label>
+<div class='value'>
+1 skeins = 
+440.0 yards (402.3m)
+</div>
+</div>
+<div class='field project_colorway'>
+<label>Colorway</label>
+<div class='value'>
+1622
+</div>
+</div>
+<div class='field'>
+<label>Purchased at</label>
+<div class='value'>
+<a href="http://www.ravelry.com/shops/knit-or-dye">Knit or Dye in Brattleboro, Vermont</a>
+</div>
+</div>
+</fieldset>
+<fieldset>
+<legend>
+Notes
+</legend>
+<div class='notes markdown'>
+
+</div>
+</fieldset>
+<div class='view_count' style='margin-top: 1.2em; line-height: 20px;'>
+viewed 0 times
+<span id='helpful_vote'>
+
+</span>
+</div>
+</div>
+<div class='project_overview'>
+<div id='tool_buttons'>
+<div id='button_box'>
+<div class='button_set' id='project_owner_button_set'>
+<a class='edit_project_button button' href='http://www.ravelry.com/projects/becdot/2012-birthday-scarf/edit'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-pencil.png" width="16" />
+<span>edit project</span>
+</a>
+<a class='share_project_button button' href='#' id='share_project_button' onclick='R.projects.shareThis(); return false;'>
+<img src="http://style3.ravelrycache.com/images/fugue-application-share.png" />
+<span>share this</span>
+</a>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+</div>
+</div>
+<div class='project_status view_only_status'>
+<div class='field'>
+<label>Status</label>
+Hibernating
+
+</div>
+<div class='field progress' id='slurp_progress_project_8571595_progress_field' style=''>
+<label for='project_started'>Progress</label>
+<div class="rateable"><span class='caption'>Progress</span><ul class="project_progress rating" id="project_8571595_progress"><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li></ul></div><script type="text/javascript">
+//<![CDATA[
+updateRatingControls('project_8571595_progress_field');
+//]]>
+</script>
+<div class='percentage' id='project_8571595_progress_name'>
+ 50%
+</div>
+</div>
+
+<div class='field'>
+<label for='project_started'>Started</label>
+2010
+</div>
+<div class='field'>
+<label for='project_completed'>Completed</label>
+
+</div>
+</div>
+<div class='more_from'>
+<form><select id="more_from_user" name="more_from_user" onchange="navigateWithSelect(this);"><option>Your projects</option><option></option><option value="http://www.ravelry.com/projects/becdot">View all projects (3)</option><option></option><optgroup label="In progress"><option value="http://www.ravelry.com/projects/becdot/alpaca-sox-long-socks">Socks</option></optgroup><optgroup label="Finished"><option value="http://www.ravelry.com/projects/becdot/sonnet">Chunky sweater</option></optgroup><optgroup label="Hibernating"><option value="http://www.ravelry.com/projects/becdot/2012-birthday-scarf">2012 birthday scarf</option></optgroup></select></form>
+</div>
+<div id='pattern_summary'>
+<div class='pattern_summary box'>
+<div class='box_title'>
+About this pattern
+</div>
+<div class='box_contents hreview-aggregate' id='pattern_summary_content'>
+Personal pattern (not in Ravelry)
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='user_editable'>
+</div>
+
+</div>
+
+<div id='yarn_summary'>
+<div class='yarn_summary box' id='yarn_37455_summary'>
+<div class='box_title'>
+About this yarn
+</div>
+<div class='box_contents yarn_summary_content' id='yarn_37455_content'>
+<div class='yarn_name'>
+<a href="http://www.ravelry.com/yarns/library/jojoland-consonance">Consonance</a>
+</div>
+<div class='yarn_company'>
+by <a href="http://www.ravelry.com/yarns/brands/jojoland">Jojoland</a>
+</div>
+<div class='fiber_and_weight'>
+Lace / 2 ply
+</div>
+<div class='fibers'>
+50% Cashmere, 50% Silk
+</div>
+<div class='yardage'>
+440
+yards
+ / 
+50
+grams
+</div>
+<div class='rateable' style='margin-top: 1em;'>
+<small>
+my star rating
+</small>
+<ul class='rating star_rating' id='yarn_37455_rating'>
+<!-- %span.rating_label rating -->
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<div style="clear:both;" class="c_d"></div>
+</ul>
+</div>
+<div class='pattern_people summary_box_people'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-basket.png" width="16" />
+<a href="http://www.ravelry.com/yarns/library/jojoland-consonance/projects">158 projects</a>,
+stashed
+<a href="http://www.ravelry.com/yarns/library/jojoland-consonance/stashes">141 times</a>
+</div>
+</div>
+</div>
+<div class='user_editable'>
+</div>
+
+</div>
+<ul class='project_dates'>
+<li>
+Project created: July 10, 2012
+</li>
+<li>
+Updated: July 10, 2012
+</li>
+</ul>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div class='previous'>
+<a href="http://www.ravelry.com/projects/becdot/sonnet">&larr; Chunky sweater</a>
+</div>
+<div class='next'>
+
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div id='preload_default_images'>
+<span>
+<span></span>
+</span>
+</div>
+<div id='prefooter'></div>
+</div>
+<div id='footer'>
+<div class='linkbar'>
+<a href="/">Home</a>
+|
+<a href="/about">About Us</a>
+|
+<a href="/advertisers">Advertising</a>
+|
+<a href="/contact">Contact Us</a>
+|
+<a href="/donate">Donating</a>
+|
+<a href="/about/goodies">Goodies</a>
+|
+<a href="/jobs">We're Hiring!</a>
+|
+<a href="/groups/ravelry-api">API</a>
+|
+<a href="/about/guidelines">Community Guidelines</a>, 
+<a href="/about/terms">Terms of Use</a>
+&amp;
+<a href="/about/privacy">Privacy</a>
+|
+<a href="http://twitter.com/ravelry" target="_blank"><img height="16" src="http://style2.ravelrycache.com/images/splash/twitter.png" style="vertical-align: top;" width="16" /></a>
+</div>
+</div>
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2348901-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Ravelry: becdot's Socks</title>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+<meta content='XxDP0hin53NsuNa086aOAqYBH8G7xlD14EIlCVk4QaI=' id='authenticity-token' name='authenticity-token' />
+<meta content='noodp' name='robots' />
+<link href="http://style2.ravelrycache.com/stylesheets/ravelry_global_1206151136.css" rel="Stylesheet" type="text/css" />
+<link href="http://style3.ravelrycache.com/stylesheets/ravelry_components_1206131125.css" rel="Stylesheet" type="text/css" />
+
+
+<script src="http://style2.ravelrycache.com/javascripts/base11_1110072004.js" type="text/javascript"></script>
+<script src="http://style2.ravelrycache.com/javascripts/ravelry_1206131206.js" type="text/javascript"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Ravelry" href="http://www.ravelry.com/search.xml">
+<!--[if lt IE 7]> 
+<link href="http://style2.ravelrycache.com/stylesheets/ie6.r12.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lt IE 9]> 
+<link href="http://style1.ravelrycache.com/stylesheets/ie.r4.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class='projects projects_show show_action  normal normal_with_pro'>
+<div id='page'>
+<div id='banner'>
+<a href="/"><img height="73" src="http://style1.ravelrycache.com/images/ravelry-logo.gif" title="Ravelry!" width="213" /></a>
+</div>
+<div id='status'>
+<div id='messages'>
+<div id='login'>
+<div id='logged_in'>
+hiya, 
+<strong>
+<a href="http://www.ravelry.com/people/becdot" class="login">becdot</a>!
+</strong>
+<a href="/account/logout" onclick="R.accounts.logout(); return false;">logout</a>
+</div>
+<div id='inbox'>
+<span id='unread_messages_count'>
+<a href="http://www.ravelry.com/people/becdot/messages">1 new message <img height="16" src="http://style1.ravelrycache.com/images/silk-email_open.gif" width="16" /></a>
+</span>
+</div>
+
+</div>
+</div>
+</div>
+<div id='navigation'>
+<ul>
+<li class='active' id='notebook_tab'>
+<a href="http://www.ravelry.com/projects/becdot">my notebook</a>
+<ul id='notebook_menu' style='display: none;'>
+<li class='projects_option'><a href="/projects/becdot">projects</a></li>
+<li class='stash_option'><a href="/people/becdot/stash">stash</a></li>
+<li class='queue_option'><a href="/people/becdot/queue">queue</a></li>
+<li class='favorites_option'><a href="/people/becdot/favorites">favorites</a></li>
+<li class='friends_option'><a href="/people/becdot/friends">friends</a></li>
+<li class='user_groups_option'><a href="http://www.ravelry.com/people/becdot/groups">groups/events</a></li>
+<li class='needles_option'><a href="/people/becdot/needles">needles/hooks</a></li>
+<li class='books_option'><a href="http://www.ravelry.com/people/becdot/library">library</a></li>
+<li class='messages_option'><a href="/people/becdot/messages">messages</a></li>
+<li class='posts_option'><a href="/people/becdot/posts">blog posts</a></li>
+<li class='contributions_option'><a href="/people/becdot/contributions">contributions</a></li>
+</ul>
+</li>
+<li id='patterns_tab'><a href="/patterns">patterns</a></li>
+<li id='yarns_tab'><a href="/yarns">yarns</a></li>
+<li><a href="/people">people</a></li>
+<li><a href="http://www.ravelry.com/discuss">forums</a></li>
+<li><a href="http://www.ravelry.com/groups">groups</a></li>
+<li><a href="http://www.ravelry.com/shop">shop</a></li>
+<li id='help_tab'>
+<a href="http://www.ravelry.com/help" style="font-size: 1.2em;" title="Ravelry Help"><img height="18" src="http://style0.ravelrycache.com/images/question2-2.png" width="17" /></a>
+</li>
+<li id='search_tab' onclick='R.searchlight.tabClicked();'>
+<a href="/search" onclick="return false;" title="Search ravelry"><img class="inline" height="16" src="http://style3.ravelrycache.com/images/fugue-magnifier_left.png" width="16" /></a>
+</li>
+<li id='carts_tab' style='display: none;'></li>
+<li id='pro_tab' onclick='R.navigation.proTabClicked();'>
+<a href="/search" onclick="return false;" title="Switch to Pro account"><img src="http://style0.ravelrycache.com/images/pro-menu-text-2.png" /></a>
+</li>
+</ul>
+</div>
+<div id='searchlight' style='display: none;'>
+<div class='searchlight_top'>
+<a href="#" onclick="R.searchlight.close(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='searchlight_content'>
+<div class='section'>
+<img class="inline" src="http://style2.ravelrycache.com/images/fugue-lightning.png" />
+quick search
+</div>
+<form onsubmit='R.searchlight.search(); return false;'>
+<input id='searchlight_term' type='text' />
+<div id='searchlight_progress'></div>
+</form>
+<div id='searchlight_results'></div>
+<div class='section'>
+<img class="inline" src="http://style0.ravelrycache.com/images/advanced-search-tiny.png" />
+advanced search
+</div>
+<div class='advanced_searchlight searchlight_component' id='advanced_search_links'>
+<ul>
+<li><a href="/patterns/search#query=" id="searchlight_patterns_advanced">patterns</a></li>
+<li><a href="/projects/search#query=">projects</a></li>
+<li><a href="/designers/search#query=">designers</a></li>
+<li><a href="/sources/search#query=">sources</a></li>
+</ul>
+<ul>
+<li><a href="/yarns/search#query=">yarns</a></li>
+<li><a href="/stash/search#query=">stashes</a></li>
+<li><a href="/yarns/brands/search#query=">yarn brands</a></li>
+</ul>
+<ul>
+<li><a href="/people/search#query=">people</a></li>
+<li><a href="/groups/search#query=">groups</a></li>
+<li><a href="/discuss/search#query=&amp;view=posts">forum posts</a></li>
+<li><a href="/discuss/search#query=&amp;view=topics">topics</a></li>
+<li><a href="/events/search#query=">events</a></li>
+</ul>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-disk.png" width="16" />
+my saved searches
+</div>
+<div class='saved_searchlight searchlight_component' id='searchlight_saved_searches'></div>
+</div>
+<div class='searchlight_bottom'></div>
+</div>
+
+<div class='nav_menu' id='pro_menu' style='display: none; left: 720px;'>
+<div class='nav_menu_top' style="background-image: url('/images/pro-menu-top.png'); height: 52px;">
+<a href="#" onclick="R.navigation.closeProMenu(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='nav_menu_content'>
+<div class='content_block' id='pro_menu_business'>
+<span class='title' style='font-size: 1.2em;'>
+<a href="/pro" style="color: black; text-decoration: none;">Becdot Pro</a>
+</span>
+<a href="#" onclick="R.navigation.prepareChangeBusiness(); return false;">change</a>
+
+</div>
+<div class='section'>
+<img class="inline" src="http://style3.ravelrycache.com/images/fugue-application-block.png" />
+apps
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/apps">http://www.ravelry.com/pro/...</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style3.ravelrycache.com/images/silk-page_white_acrobat.png" width="16" />
+pattern sales
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/manage">manage store</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/promotions">promotions</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/purchases">purchases</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-layout_sidebar.png" width="16" />
+advertising
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/active">active ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/planned">pending ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/performance">performance</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/prepare">reserve ad space</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style0.ravelrycache.com/images/silk-money_dollar.png" width="16" />
+invoices
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/invoices">invoices</a></li>
+</ul>
+</div>
+</div>
+<div class='nav_menu_bottom'></div>
+
+</div>
+
+<div id='content'>
+<div class='heading'>
+<h2>
+<span class='sub'>
+
+<a href="http://www.ravelry.com/people/becdot">becdot</a>
+<span class="breadcrumb_divider">></span>
+<a href="/projects/becdot">notebook</a>
+<span class="breadcrumb_divider">></span>
+<a href="/projects/becdot">projects</a>
+<span class="breadcrumb_divider">></span>
+</span>
+Socks
+<a href="http://www.ravelry.com/projects/becdot/alpaca-sox-long-socks/edit"><img height="16" src="http://style1.ravelrycache.com/images/silk-pencil.png" width="16" /></a>
+</h2>
+</div>
+<div class='editor'>
+<div class='tabs' id='tabset'>
+<ul>
+<li id="current"><span class="static_tab" id="show_tab"><a href="/projects/becdot/alpaca-sox-long-socks">details</a></span></li>
+<li><span class="static_tab" id="photos_tab"><a href="/projects/becdot/alpaca-sox-long-socks/photos">add photos</a></span></li>
+<li><span class="static_tab" id="journal_tab"><a href="/projects/becdot/alpaca-sox-long-socks/journal">no posts</a></span></li>
+<li><span class="static_tab" id="comments_tab"><a href="/projects/becdot/alpaca-sox-long-socks/comments">no comments</a></span></li>
+</ul>
+</div>
+<div class='panels'>
+<div class='panel' id='show_panel'>
+<div class='gallery'>
+<div class='photo_border'>
+<div class='photo_frame'>
+<div class='photo'>
+<div class='placeholder' onclick='changeTab("photos_tab");'>no photos added</div>
+</div>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+<div class='project_editor'>
+<div class='fields view_only'>
+<fieldset>
+<legend>
+Project info
+</legend>
+<div class='field'>
+<label for='project_name'>Name</label>
+<div class='value'>Socks</div>
+</div>
+<div class='field'>
+<label for='project_pattern_name'>
+Pattern
+</label>
+<div class='value'>
+<a href="http://www.ravelry.com/patterns/library/alpaca-sox-long-socks">Alpaca Sox Long Socks</a>
+by Catherine Shumadine
+</div>
+</div>
+<div class='field'>
+<label>Craft</label>
+<div class='value'>Knitting</div>
+</div>
+<div class='field'>
+<label for='project_made_for'>Made for</label>
+<div class='value'>Myself</div>
+</div>
+<div class='field tags'>
+<label for='project_tag_list'>Tags</label>
+<div class='value'>
+<ul class='tag_set'>
+</ul>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+</div>
+</fieldset>
+<fieldset>
+<legend>
+Needle and yarn
+</legend>
+<div class='field'>
+<label>Needle</label>
+<div class='value'>US 2  - 2.75 mm</div>
+</div>
+</fieldset>
+<fieldset style='margin-bottom: 2em;'>
+<div class='field'>
+<label>Yarn</label>
+<div class='value'>
+<a href="http://www.ravelry.com/yarns/library/classic-elite-yarns-alpaca-sox">Classic Elite Yarns Alpaca Sox</a>
+</div>
+</div>
+<div class='field'>
+<label>How much?</label>
+<div class='value'>
+2 skeins = 
+900.0 yards (823.0m)
+</div>
+</div>
+<div class='field project_colorway'>
+<label>Colorway</label>
+<div class='value'>
+1827 (Bordeaux)
+</div>
+</div>
+<div class='field'>
+<label>Purchased at</label>
+<div class='value'>
+<a href="http://www.ravelry.com/shops/fresh-purls">Fresh Purls in Providence, Rhode Island</a>
+</div>
+</div>
+</fieldset>
+<fieldset>
+<legend>
+Notes
+</legend>
+<div class='notes markdown'>
+<ul>
+<li>There has GOT to be a better way to count rows in magic loop</li>
+</ul>
+</div>
+</fieldset>
+<div class='view_count' style='margin-top: 1.2em; line-height: 20px;'>
+viewed 0 times
+<span id='helpful_vote'>
+
+</span>
+</div>
+</div>
+<div class='project_overview'>
+<div id='tool_buttons'>
+<div id='button_box'>
+<div class='button_set' id='project_owner_button_set'>
+<a class='edit_project_button button' href='http://www.ravelry.com/projects/becdot/alpaca-sox-long-socks/edit'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-pencil.png" width="16" />
+<span>edit project</span>
+</a>
+<a class='share_project_button button' href='#' id='share_project_button' onclick='R.projects.shareThis(); return false;'>
+<img src="http://style3.ravelrycache.com/images/fugue-application-share.png" />
+<span>share this</span>
+</a>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+</div>
+</div>
+<div class='project_status view_only_status'>
+<div class='field'>
+<label>Status</label>
+In progress
+
+<img class="happiness" src="http://style3.ravelrycache.com/images/emoticon_meh.png" />
+</div>
+<div class='field progress' id='slurp_progress_project_8573236_progress_field' style=''>
+<label for='project_started'>Progress</label>
+<div class="rateable"><span class='caption'>Progress</span><ul class="project_progress rating" id="project_8573236_progress"><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li><li class="dim"></li></ul></div><script type="text/javascript">
+//<![CDATA[
+updateRatingControls('project_8573236_progress_field');
+//]]>
+</script>
+<div class='percentage' id='project_8573236_progress_name'>
+ 20%
+</div>
+</div>
+
+<div class='field'>
+<label for='project_started'>Started</label>
+April 2012
+</div>
+<div class='field'>
+<label for='project_completed'>Completed</label>
+
+</div>
+</div>
+<div class='more_from'>
+<form><select id="more_from_user" name="more_from_user" onchange="navigateWithSelect(this);"><option>Your projects</option><option></option><option value="http://www.ravelry.com/projects/becdot">View all projects (3)</option><option></option><optgroup label="In progress"><option value="http://www.ravelry.com/projects/becdot/alpaca-sox-long-socks">Socks</option></optgroup><optgroup label="Finished"><option value="http://www.ravelry.com/projects/becdot/sonnet">Chunky sweater</option></optgroup><optgroup label="Hibernating"><option value="http://www.ravelry.com/projects/becdot/2012-birthday-scarf">2012 birthday scarf</option></optgroup></select></form>
+</div>
+<div id='pattern_summary'>
+<div class='pattern_summary box'>
+<div class='box_title'>
+About this pattern
+</div>
+<div class='box_contents hreview-aggregate' id='pattern_summary_content'>
+<div class='pattern_name item'>
+<a href="http://www.ravelry.com/patterns/library/alpaca-sox-long-socks" class="fn">Alpaca Sox Long Socks</a>
+</div>
+<div class='pattern_author'>by <a href="http://www.ravelry.com/designers/catherine-shumadine">Catherine Shumadine</a></div>
+<div class='pattern_source'>from <a href="http://www.ravelry.com/patterns/sources/classic-elite-9106-sunday-brunch" class="preview" id="preview_133963">Classic Elite #9106, Sunday Brunch</a></div>
+<div class='rateable'>
+<small>
+my star rating
+</small>
+<ul class='rating star_rating clickable_rating' id='pattern_133963_rating'>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<div style="clear:both;" class="c_d"></div>
+</ul>
+<small style='display: block; margin-top: 1em;'>
+my difficulty rating
+</small>
+<ul class='rating bar_rating' id='pattern_133963_difficulty'>
+<li class='filled'></li>
+<li class='filled'></li>
+<li class='filled'></li>
+<li class='filled'></li>
+<li class='filled'></li>
+<li class='filled'></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<div class='difficulty' id='pattern_133963_difficulty_score'></div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='pattern_people summary_box_people'>
+<!-- =link_to "#{pattern.count_people_in_progress} wip", patterns_url(:id => pattern.permalink) -->
+<img height="16" src="http://style0.ravelrycache.com/images/silk-color_swatch.png" width="16" />
+<a href="http://www.ravelry.com/patterns/library/alpaca-sox-long-socks/people">5 projects</a>,
+in 40 queues
+
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='user_editable'>
+</div>
+<div class='preview_content' id='preview_133963_content' style='display:none;'>
+<img class="cover" src="http://images4.ravelrycache.com/uploads/SbutterAMfly/12006536/SundayBrunch_square.jpg" />
+</div>
+
+</div>
+
+<div id='yarn_summary'>
+<div class='yarn_summary box' id='yarn_12815_summary'>
+<div class='box_title'>
+About this yarn
+</div>
+<div class='box_contents yarn_summary_content' id='yarn_12815_content'>
+<div class='yarn_name'>
+<a href="http://www.ravelry.com/yarns/library/classic-elite-yarns-alpaca-sox">Alpaca Sox</a>
+</div>
+<div class='yarn_company'>
+by <a href="http://www.ravelry.com/yarns/brands/classic-elite-yarns">Classic Elite Yarns</a>
+</div>
+<div class='fiber_and_weight'>
+Fingering / 4 ply
+</div>
+<div class='fibers'>
+60% Alpaca, 20% Merino, 20% Nylon
+</div>
+<div class='yardage'>
+450
+yards
+ / 
+100
+grams
+</div>
+<div class='rateable' style='margin-top: 1em;'>
+<small>
+my star rating
+</small>
+<ul class='rating star_rating' id='yarn_12815_rating'>
+<!-- %span.rating_label rating -->
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<div style="clear:both;" class="c_d"></div>
+</ul>
+</div>
+<div class='pattern_people summary_box_people'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-basket.png" width="16" />
+<a href="http://www.ravelry.com/yarns/library/classic-elite-yarns-alpaca-sox/projects">3145 projects</a>,
+stashed
+<a href="http://www.ravelry.com/yarns/library/classic-elite-yarns-alpaca-sox/stashes">3757 times</a>
+</div>
+</div>
+</div>
+<div class='user_editable'>
+</div>
+
+</div>
+<ul class='project_dates'>
+<li>
+Project created: July 10, 2012
+</li>
+<li>
+Updated: July 10, 2012
+</li>
+</ul>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div class='previous'>
+
+</div>
+<div class='next'>
+<a href="http://www.ravelry.com/projects/becdot/sonnet">Chunky sweater &rarr;</a>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div id='preload_default_images'>
+<span>
+<span></span>
+</span>
+</div>
+<div id='prefooter'></div>
+</div>
+<div id='footer'>
+<div class='linkbar'>
+<a href="/">Home</a>
+|
+<a href="/about">About Us</a>
+|
+<a href="/advertisers">Advertising</a>
+|
+<a href="/contact">Contact Us</a>
+|
+<a href="/donate">Donating</a>
+|
+<a href="/about/goodies">Goodies</a>
+|
+<a href="/jobs">We're Hiring!</a>
+|
+<a href="/groups/ravelry-api">API</a>
+|
+<a href="/about/guidelines">Community Guidelines</a>, 
+<a href="/about/terms">Terms of Use</a>
+&amp;
+<a href="/about/privacy">Privacy</a>
+|
+<a href="http://twitter.com/ravelry" target="_blank"><img height="16" src="http://style2.ravelrycache.com/images/splash/twitter.png" style="vertical-align: top;" width="16" /></a>
+</div>
+</div>
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2348901-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang='en' xml:lang='en' xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+<title>Ravelry: becdot's Chunky sweater</title>
+<meta content='text/html; charset=utf-8' http-equiv='Content-Type' />
+<meta content='f2MLDwynZuT/h3gc/CNHgUcSWkvf6+b2N8jNigW9sgA=' id='authenticity-token' name='authenticity-token' />
+<meta content='noodp' name='robots' />
+<link href="http://style2.ravelrycache.com/stylesheets/ravelry_global_1206151136.css" rel="Stylesheet" type="text/css" />
+<link href="http://style3.ravelrycache.com/stylesheets/ravelry_components_1206131125.css" rel="Stylesheet" type="text/css" />
+
+
+<script src="http://style2.ravelrycache.com/javascripts/base11_1110072004.js" type="text/javascript"></script>
+<script src="http://style2.ravelrycache.com/javascripts/ravelry_1206131206.js" type="text/javascript"></script>
+
+
+
+<link rel="search" type="application/opensearchdescription+xml" title="Ravelry" href="http://www.ravelry.com/search.xml">
+<!--[if lt IE 7]> 
+<link href="http://style2.ravelrycache.com/stylesheets/ie6.r12.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+<!--[if lt IE 9]> 
+<link href="http://style1.ravelrycache.com/stylesheets/ie.r4.css" media="screen" rel="stylesheet" type="text/css" />
+<![endif]-->
+</head>
+<body class='projects projects_show show_action  normal normal_with_pro'>
+<div id='page'>
+<div id='banner'>
+<a href="/"><img height="73" src="http://style1.ravelrycache.com/images/ravelry-logo.gif" title="Ravelry!" width="213" /></a>
+</div>
+<div id='status'>
+<div id='messages'>
+<div id='login'>
+<div id='logged_in'>
+hiya, 
+<strong>
+<a href="http://www.ravelry.com/people/becdot" class="login">becdot</a>!
+</strong>
+<a href="/account/logout" onclick="R.accounts.logout(); return false;">logout</a>
+</div>
+<div id='inbox'>
+<span id='unread_messages_count'>
+<a href="http://www.ravelry.com/people/becdot/messages">1 new message <img height="16" src="http://style1.ravelrycache.com/images/silk-email_open.gif" width="16" /></a>
+</span>
+</div>
+
+</div>
+</div>
+</div>
+<div id='navigation'>
+<ul>
+<li class='active' id='notebook_tab'>
+<a href="http://www.ravelry.com/projects/becdot">my notebook</a>
+<ul id='notebook_menu' style='display: none;'>
+<li class='projects_option'><a href="/projects/becdot">projects</a></li>
+<li class='stash_option'><a href="/people/becdot/stash">stash</a></li>
+<li class='queue_option'><a href="/people/becdot/queue">queue</a></li>
+<li class='favorites_option'><a href="/people/becdot/favorites">favorites</a></li>
+<li class='friends_option'><a href="/people/becdot/friends">friends</a></li>
+<li class='user_groups_option'><a href="http://www.ravelry.com/people/becdot/groups">groups/events</a></li>
+<li class='needles_option'><a href="/people/becdot/needles">needles/hooks</a></li>
+<li class='books_option'><a href="http://www.ravelry.com/people/becdot/library">library</a></li>
+<li class='messages_option'><a href="/people/becdot/messages">messages</a></li>
+<li class='posts_option'><a href="/people/becdot/posts">blog posts</a></li>
+<li class='contributions_option'><a href="/people/becdot/contributions">contributions</a></li>
+</ul>
+</li>
+<li id='patterns_tab'><a href="/patterns">patterns</a></li>
+<li id='yarns_tab'><a href="/yarns">yarns</a></li>
+<li><a href="/people">people</a></li>
+<li><a href="http://www.ravelry.com/discuss">forums</a></li>
+<li><a href="http://www.ravelry.com/groups">groups</a></li>
+<li><a href="http://www.ravelry.com/shop">shop</a></li>
+<li id='help_tab'>
+<a href="http://www.ravelry.com/help" style="font-size: 1.2em;" title="Ravelry Help"><img height="18" src="http://style0.ravelrycache.com/images/question2-2.png" width="17" /></a>
+</li>
+<li id='search_tab' onclick='R.searchlight.tabClicked();'>
+<a href="/search" onclick="return false;" title="Search ravelry"><img class="inline" height="16" src="http://style3.ravelrycache.com/images/fugue-magnifier_left.png" width="16" /></a>
+</li>
+<li id='carts_tab' style='display: none;'></li>
+<li id='pro_tab' onclick='R.navigation.proTabClicked();'>
+<a href="/search" onclick="return false;" title="Switch to Pro account"><img src="http://style0.ravelrycache.com/images/pro-menu-text-2.png" /></a>
+</li>
+</ul>
+</div>
+<div id='searchlight' style='display: none;'>
+<div class='searchlight_top'>
+<a href="#" onclick="R.searchlight.close(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='searchlight_content'>
+<div class='section'>
+<img class="inline" src="http://style2.ravelrycache.com/images/fugue-lightning.png" />
+quick search
+</div>
+<form onsubmit='R.searchlight.search(); return false;'>
+<input id='searchlight_term' type='text' />
+<div id='searchlight_progress'></div>
+</form>
+<div id='searchlight_results'></div>
+<div class='section'>
+<img class="inline" src="http://style0.ravelrycache.com/images/advanced-search-tiny.png" />
+advanced search
+</div>
+<div class='advanced_searchlight searchlight_component' id='advanced_search_links'>
+<ul>
+<li><a href="/patterns/search#query=" id="searchlight_patterns_advanced">patterns</a></li>
+<li><a href="/projects/search#query=">projects</a></li>
+<li><a href="/designers/search#query=">designers</a></li>
+<li><a href="/sources/search#query=">sources</a></li>
+</ul>
+<ul>
+<li><a href="/yarns/search#query=">yarns</a></li>
+<li><a href="/stash/search#query=">stashes</a></li>
+<li><a href="/yarns/brands/search#query=">yarn brands</a></li>
+</ul>
+<ul>
+<li><a href="/people/search#query=">people</a></li>
+<li><a href="/groups/search#query=">groups</a></li>
+<li><a href="/discuss/search#query=&amp;view=posts">forum posts</a></li>
+<li><a href="/discuss/search#query=&amp;view=topics">topics</a></li>
+<li><a href="/events/search#query=">events</a></li>
+</ul>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-disk.png" width="16" />
+my saved searches
+</div>
+<div class='saved_searchlight searchlight_component' id='searchlight_saved_searches'></div>
+</div>
+<div class='searchlight_bottom'></div>
+</div>
+
+<div class='nav_menu' id='pro_menu' style='display: none; left: 720px;'>
+<div class='nav_menu_top' style="background-image: url('/images/pro-menu-top.png'); height: 52px;">
+<a href="#" onclick="R.navigation.closeProMenu(); return false;">&nbsp;&nbsp;&nbsp;&nbsp;</a>
+</div>
+<div class='nav_menu_content'>
+<div class='content_block' id='pro_menu_business'>
+<span class='title' style='font-size: 1.2em;'>
+<a href="/pro" style="color: black; text-decoration: none;">Becdot Pro</a>
+</span>
+<a href="#" onclick="R.navigation.prepareChangeBusiness(); return false;">change</a>
+
+</div>
+<div class='section'>
+<img class="inline" src="http://style3.ravelrycache.com/images/fugue-application-block.png" />
+apps
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/apps">http://www.ravelry.com/pro/...</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style3.ravelrycache.com/images/silk-page_white_acrobat.png" width="16" />
+pattern sales
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/manage">manage store</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/promotions">promotions</a></li>
+<li><a href="http://www.ravelry.com/stores/becdot-pro/purchases">purchases</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style2.ravelrycache.com/images/silk-layout_sidebar.png" width="16" />
+advertising
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/active">active ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/planned">pending ads</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/performance">performance</a></li>
+<li><a href="http://www.ravelry.com/advertisers/becdot-pro/ads/prepare">reserve ad space</a></li>
+</ul>
+</div>
+<div class='section'>
+<img class="inline" height="16" src="http://style0.ravelrycache.com/images/silk-money_dollar.png" width="16" />
+invoices
+</div>
+<div class='content_block'>
+<ul>
+<li><a href="http://www.ravelry.com/pro/becdot-pro/invoices">invoices</a></li>
+</ul>
+</div>
+</div>
+<div class='nav_menu_bottom'></div>
+
+</div>
+
+<div id='content'>
+<div class='heading'>
+<h2>
+<span class='sub'>
+
+<a href="http://www.ravelry.com/people/becdot">becdot</a>
+<span class="breadcrumb_divider">></span>
+<a href="/projects/becdot">notebook</a>
+<span class="breadcrumb_divider">></span>
+<a href="/projects/becdot">projects</a>
+<span class="breadcrumb_divider">></span>
+</span>
+Chunky sweater
+<a href="http://www.ravelry.com/projects/becdot/sonnet/edit"><img height="16" src="http://style1.ravelrycache.com/images/silk-pencil.png" width="16" /></a>
+</h2>
+</div>
+<div class='editor'>
+<div class='tabs' id='tabset'>
+<ul>
+<li id="current"><span class="static_tab" id="show_tab"><a href="/projects/becdot/sonnet">details</a></span></li>
+<li><span class="static_tab" id="photos_tab"><a href="/projects/becdot/sonnet/photos">add photos</a></span></li>
+<li><span class="static_tab" id="journal_tab"><a href="/projects/becdot/sonnet/journal">no posts</a></span></li>
+<li><span class="static_tab" id="comments_tab"><a href="/projects/becdot/sonnet/comments">no comments</a></span></li>
+</ul>
+</div>
+<div class='panels'>
+<div class='panel' id='show_panel'>
+<div class='gallery'>
+<div class='photo_border'>
+<div class='photo_frame'>
+<div class='photo'>
+<div class='placeholder' onclick='changeTab("photos_tab");'>no photos added</div>
+</div>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+<div class='project_editor'>
+<div class='fields view_only'>
+<fieldset>
+<legend>
+Project info
+</legend>
+<div class='field'>
+<label for='project_name'>Name</label>
+<div class='value'>Chunky sweater</div>
+</div>
+<div class='field'>
+<label for='project_pattern_name'>
+Pattern
+</label>
+<div class='value'>
+<a href="http://www.ravelry.com/patterns/library/sonnet">Sonnet</a>
+by Kristi Porter
+</div>
+</div>
+<div class='field'>
+<label>Craft</label>
+<div class='value'>Knitting</div>
+</div>
+<div class='field'>
+<label for='project_made_for'>Made for</label>
+<div class='value'>Myself</div>
+</div>
+<div class='field'>
+<label for='project_size'>Size</label>
+<div class='value'>small</div>
+</div>
+<div class='field tags'>
+<label for='project_tag_list'>Tags</label>
+<div class='value'>
+<ul class='tag_set'>
+</ul>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+</div>
+</fieldset>
+<fieldset>
+<legend>
+Needle and yarn
+</legend>
+<div class='field'>
+<label>Needle</label>
+<div class='value'>US 10½ - 6.5 mm</div>
+</div>
+</fieldset>
+<fieldset style='margin-bottom: 2em;'>
+<div class='field'>
+<label>Yarn</label>
+<div class='value'>
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky">Brown Sheep Lamb's Pride Bulky </a>
+</div>
+</div>
+<div class='field'>
+<label>How much?</label>
+<div class='value'>
+3 skeins = 
+375.0 yards (342.9m)
+</div>
+</div>
+<div class='field project_colorway'>
+<label>Colorway</label>
+<div class='value'>
+115 (Oatmeal)
+</div>
+</div>
+<div class='field'>
+<label>Dye lot</label>
+<div class='value'>
+0139
+</div>
+</div>
+<div class='field'>
+<label>Color family</label>
+<div class='value'>Natural/Undyed</div>
+</div>
+<div class='field'>
+<label>Purchased at</label>
+<div class='value'>
+<a href="http://www.ravelry.com/shops/knit-or-dye">Knit or Dye in Brattleboro, Vermont</a>
+</div>
+</div>
+</fieldset>
+<fieldset>
+<legend>
+Notes
+</legend>
+<div class='notes markdown'>
+<ul>
+<li>Fit oddly, especially around the neck</li>
+
+<li>Cuff wasn&#8217;t very elastic -- need to find a more elastic stitch for finishing cuffs</li>
+
+<li>Too short lengthwise and a little too wide</li>
+
+<li>Need to find cuter buttons!</li>
+</ul>
+</div>
+</fieldset>
+<div class='view_count' style='margin-top: 1.2em; line-height: 20px;'>
+viewed 0 times
+<span id='helpful_vote'>
+
+</span>
+</div>
+</div>
+<div class='project_overview'>
+<div id='tool_buttons'>
+<div id='button_box'>
+<div class='button_set' id='project_owner_button_set'>
+<a class='edit_project_button button' href='http://www.ravelry.com/projects/becdot/sonnet/edit'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-pencil.png" width="16" />
+<span>edit project</span>
+</a>
+<a class='share_project_button button' href='#' id='share_project_button' onclick='R.projects.shareThis(); return false;'>
+<img src="http://style3.ravelrycache.com/images/fugue-application-share.png" />
+<span>share this</span>
+</a>
+<div style="clear:both;" class="c_d"></div>
+</div>
+
+</div>
+</div>
+<div class='project_status view_only_status'>
+<div class='field'>
+<label>Status</label>
+Finished
+
+</div>
+<div class='field progress' id='slurp_progress_project_8573206_progress_field' style='display: none;'>
+<label for='project_started'>Progress</label>
+<div class="rateable"><span class='caption'>Progress</span><ul class="project_progress rating" id="project_8573206_progress"><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li><li class="filled"></li></ul></div><script type="text/javascript">
+//<![CDATA[
+updateRatingControls('project_8573206_progress_field');
+//]]>
+</script>
+<div class='percentage' id='project_8573206_progress_name'>
+ 100%
+</div>
+</div>
+
+<div class='field'>
+<label for='project_started'>Started</label>
+
+</div>
+<div class='field'>
+<label for='project_completed'>Completed</label>
+
+</div>
+</div>
+<div class='more_from'>
+<form><select id="more_from_user" name="more_from_user" onchange="navigateWithSelect(this);"><option>Your projects</option><option></option><option value="http://www.ravelry.com/projects/becdot">View all projects (3)</option><option></option><optgroup label="In progress"><option value="http://www.ravelry.com/projects/becdot/alpaca-sox-long-socks">Socks</option></optgroup><optgroup label="Finished"><option value="http://www.ravelry.com/projects/becdot/sonnet">Chunky sweater</option></optgroup><optgroup label="Hibernating"><option value="http://www.ravelry.com/projects/becdot/2012-birthday-scarf">2012 birthday scarf</option></optgroup></select></form>
+</div>
+<div id='pattern_summary'>
+<div class='pattern_summary box'>
+<div class='box_title'>
+About this pattern
+</div>
+<div class='box_contents hreview-aggregate' id='pattern_summary_content'>
+<div class='pattern_name item'>
+<a href="http://www.ravelry.com/patterns/library/sonnet" class="fn">Sonnet</a>
+</div>
+<div class='pattern_author'>by <a href="http://www.ravelry.com/designers/kristi-porter">Kristi Porter</a></div>
+<div class='pattern_source'>from <a href="http://www.ravelry.com/patterns/sources/knitty-fall-2003" class="preview" id="preview_1596">Knitty, Fall 2003</a></div>
+<div class='rateable'>
+<small>
+my star rating
+</small>
+<ul class='rating star_rating clickable_rating' id='pattern_1596_rating'>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<div style="clear:both;" class="c_d"></div>
+</ul>
+<small style='display: block; margin-top: 1em;'>
+my difficulty rating
+</small>
+<ul class='rating bar_rating' id='pattern_1596_difficulty'>
+<li class='filled'></li>
+<li class='filled'></li>
+<li class='filled'></li>
+<li class='filled'></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+</ul>
+<div class='difficulty' id='pattern_1596_difficulty_score'></div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='pattern_people summary_box_people'>
+<!-- =link_to "#{pattern.count_people_in_progress} wip", patterns_url(:id => pattern.permalink) -->
+<img height="16" src="http://style0.ravelrycache.com/images/silk-color_swatch.png" width="16" />
+<a href="http://www.ravelry.com/patterns/library/sonnet/people">257 projects</a>,
+in 560 queues
+
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+</div>
+<div class='user_editable'>
+</div>
+
+</div>
+
+<div id='yarn_summary'>
+<div class='yarn_summary box' id='yarn_7086_summary'>
+<div class='box_title'>
+About this yarn
+</div>
+<div class='box_contents yarn_summary_content' id='yarn_7086_content'>
+<div class='yarn_name'>
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky">Lamb's Pride Bulky </a>
+</div>
+<div class='yarn_company'>
+by <a href="http://www.ravelry.com/yarns/brands/brown-sheep">Brown Sheep</a>
+</div>
+<div class='fiber_and_weight'>
+Super Bulky
+</div>
+<div class='fibers'>
+85% Wool, 15% Mohair
+</div>
+<div class='yardage'>
+125
+yards
+ / 
+113
+grams
+</div>
+<div class='rateable' style='margin-top: 1em;'>
+<small>
+my star rating
+</small>
+<ul class='rating star_rating' id='yarn_7086_rating'>
+<!-- %span.rating_label rating -->
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<li></li>
+<div style="clear:both;" class="c_d"></div>
+</ul>
+</div>
+<div class='pattern_people summary_box_people'>
+<img height="16" src="http://style1.ravelrycache.com/images/silk-basket.png" width="16" />
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/projects">20657 projects</a>,
+stashed
+<a href="http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky/stashes">12806 times</a>
+</div>
+</div>
+</div>
+<div class='user_editable'>
+</div>
+
+</div>
+<ul class='project_dates'>
+<li>
+Project created: July 10, 2012
+</li>
+<li>
+Finished: July 10, 2012
+</li>
+<li>
+Updated: July 11, 2012
+</li>
+</ul>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div class='previous'>
+<a href="http://www.ravelry.com/projects/becdot/alpaca-sox-long-socks">&larr; Socks</a>
+</div>
+<div class='next'>
+<a href="http://www.ravelry.com/projects/becdot/2012-birthday-scarf">2012 birthday scarf &rarr;</a>
+</div>
+</div>
+<div style="clear:both;" class="c_d"></div>
+
+</div>
+<div style="clear:both;" class="c_d"></div>
+<div id='preload_default_images'>
+<span>
+<span></span>
+</span>
+</div>
+<div id='prefooter'></div>
+</div>
+<div id='footer'>
+<div class='linkbar'>
+<a href="/">Home</a>
+|
+<a href="/about">About Us</a>
+|
+<a href="/advertisers">Advertising</a>
+|
+<a href="/contact">Contact Us</a>
+|
+<a href="/donate">Donating</a>
+|
+<a href="/about/goodies">Goodies</a>
+|
+<a href="/jobs">We're Hiring!</a>
+|
+<a href="/groups/ravelry-api">API</a>
+|
+<a href="/about/guidelines">Community Guidelines</a>, 
+<a href="/about/terms">Terms of Use</a>
+&amp;
+<a href="/about/privacy">Privacy</a>
+|
+<a href="http://twitter.com/ravelry" target="_blank"><img height="16" src="http://style2.ravelrycache.com/images/splash/twitter.png" style="vertical-align: top;" width="16" /></a>
+</div>
+</div>
+
+
+
+
+
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-2348901-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</body>
+</html>
+
