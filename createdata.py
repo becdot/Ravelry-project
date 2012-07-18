@@ -23,21 +23,21 @@ projectdata.write('%s\n' % repr(project_details))
         
 
 
-login_url = 'https://www.ravelry.com/account/login'
-yarn_url = 'http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky'
-auth = {'user[login]': 'becdot', 'user[password]': 'becca21'}
-session_info = requests.session()
-login_response = session_info.post(login_url, data=auth)
-yarn_response = session_info.get(yarn_url)
-yarn_response = yarn_response.text.encode('utf-8')
-
-projectdata = open('ravelryprojectdata.txt', 'w')
-yarnscrapedata = open('yarnscrapedata.txt', 'w')
-projectdata.write('%s\n' % repr(project_details))
-yarnscrapedata.write('%s\n' % yarn_response)
+#login_url = 'https://www.ravelry.com/account/login'
+#yarn_url = 'http://www.ravelry.com/yarns/library/brown-sheep-lambs-pride-bulky'
+#auth = {'user[login]': 'becdot', 'user[password]': 'becca21'}
+#session_info = requests.session()
+#login_response = session_info.post(login_url, data=auth)
+#yarn_response = session_info.get(yarn_url)
+#yarn_response = yarn_response.text.encode('utf-8')
+#
+#projectdata = open('ravelryprojectdata.txt', 'w')
+#yarnscrapedata = open('yarnscrapedata.txt', 'w')
+#projectdata.write('%s\n' % repr(project_details))
+#yarnscrapedata.write('%s\n' % yarn_response)
 
 
 jsondata.close()
 userdata.close()
 projectdata.close()
-yarnscrapedata.close()
+#yarnscrapedata.close()
