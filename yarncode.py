@@ -1,6 +1,11 @@
 import re
 import requests
 
+# Enter your Ravelry.com username
+username = 'username'
+# Enter your Ravelry.com password
+password = 'password'
+
 # Defines the Project and Yarn classes
 class Project:
     def __init__(self, name):
@@ -46,7 +51,7 @@ for project_name, project_data in projectdata.iteritems():
 # Webscrapes the project data and returns it in html form
 def projectdata(project_url):
     login_url = 'https://www.ravelry.com/account/login'
-    auth = {'user[login]': 'username', 'user[password]': 'password'}
+    auth = {'user[login]': username, 'user[password]': password}
     session_info = requests.session()
     login_response = session_info.post(login_url, data=auth)
     project_response = session_info.get(project_url)
@@ -76,9 +81,7 @@ totalyards = 0
 for project in list_of_projects:
     for yarn in project.yarn:
         totalyards += yarn.yardage
-        
-#for project in list_of_projects: print '\n', project
-         
+                 
 # Prints out the final information
 interesting_distances = {'moon': 420388320, 'len_africa': 8748906, 'bos_to_nyc': 387200, 'baseball_perimeter': 120}
 print "\nIn %d projects, you have used a total of %s yards of yarn!" % (len(list_of_projects), totalyards)
